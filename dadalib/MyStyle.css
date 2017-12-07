@@ -1,0 +1,122 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Oct 1, 2017, 2:36:19 PM
+    Author     : libiould
+*/
+html
+{ 
+    background-color: black; 
+}
+
+body
+{
+    /* demander a quoi ils servent tous ces font */
+    font-family: sans-serif;
+    font-size: 1em;
+    line-height:1.5em;
+    text-align: none;
+}
+img
+{
+    width: 100%
+}
+.img-circle
+{
+    float: left;
+    width:45%;
+    /*height: 500px;*/
+    border-radius: 100%;
+    /*width: 100%*/
+}
+iframe
+{
+    width: 100%
+}
+h1
+{
+    text-align: center;
+    padding-top:20px;
+    text-transform: uppercase;
+    color: #ffd88e;
+}
+h2
+{
+    text-align: center;
+    color: red;
+    text-transform: uppercase;
+}
+/* comment faire ça pour les deux */
+
+label
+{
+
+    color:white;
+}
+p
+{
+
+    color:white;
+}
+#main2
+{
+    background-color: black;
+    padding: 0em 1em 1em;
+    padding-top: 10px;
+    color:blue;
+}
+#mainaboutUS
+{
+    background-color: white;
+    padding: 0em 1em 1em;
+    padding-top: 10px;
+    color:blue;
+}
+#main1
+{
+    background-color: black;
+    padding: 0em 1em 1em;
+    padding-top: 10px;
+    color:blue;
+}
+#footer
+{
+    text-align: center;
+    margin:0;
+    padding:0;
+    overflow: hidden;
+}
+#menu
+{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+#items
+{
+    float: left;
+}
+
+a:link, a:visited
+{
+    display: block;
+    width: 120px;
+    font-weight: bold;
+    color:white;
+    background-color: black;
+    text-align: center;
+    padding:4px;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+
+
+
+
+
+
